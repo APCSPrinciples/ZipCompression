@@ -1,2 +1,2 @@
 # Zip Compression
-Follow the instructions and answer the questions on [this worksheet](https://github.com/APCSPrinciples/APCSPrinciples.github.io/blob/master/Worksheets/Zip%20Compression%20APCSP.doc?raw=true). Save your work and check your answers with the [answer key](https://github.com/APCSPrinciples/APCSPrinciples.github.io/blob/master/Worksheets/Zip%20Compression%20APCSP%20key.doc?raw=true).
+Download or make a copy of [this worksheet](https://drive.google.com/open?id=0Bz2ZkT6qWPYTdU8zai1IblFUb2s). Follow the instructions and answer the questions. Save your work and check your answers with the [answer key](https://drive.google.com/file/d/0Bz2ZkT6qWPYTX1FzclFMWkVNekU/view?usp=sharing).
